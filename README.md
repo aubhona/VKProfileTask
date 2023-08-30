@@ -7,7 +7,7 @@ Technical specification:
 It is necessary to implement the API application on ASP.NET Core (5 or
 later version).
 Business logic requirements and constraints:
-The request/response format must be JSON.
+- The request/response format must be JSON.
 - API methods must be asynchronous.
 - It is necessary to use PostgreSQL as a DBMS.
 - You need to use EntityFrameworkCore as an ORM.
