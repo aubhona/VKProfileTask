@@ -3,6 +3,7 @@
 Profile task for selections in Vk internship.
 
 Eng
+
 Technical specification:
 It is necessary to implement the API application on ASP.NET Core (5 or
 later version).
@@ -23,6 +24,7 @@ Business logic requirements and constraints:
 - Implement pagination to get multiple users.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Rus
+
 Техническое задание:
 Необходимо реализовать АРІ приложение на ASP.NET Core (5 ли
 более поздняя версия).
